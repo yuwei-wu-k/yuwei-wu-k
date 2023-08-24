@@ -8,6 +8,6 @@
 
 :book: I have a bachelor's degree in English Literature from Tianjin Foreign Studies University in China, which allows me to bring a unique perspective to my work, combining my passion for understanding human nature with a strong analytical mindset.
 
-:seedling: I'm also an active volunteer in LGBTQ and STEM education. I helped build website() at Out in Tech organizaiton.
+:seedling: I'm also an active volunteer in LGBTQ and STEM education. 
 
-:computer: I’m currently developing my skills in **full stack web development** and working towards my **AWS** certificate. Actively looking for an internship in Software Development, feel free to reach out with any opportunity.
+:computer: I’m currently developing my skills in **full stack web development**. Actively looking for an internship in Software Development, feel free to reach out with any opportunity.
