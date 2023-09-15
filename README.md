@@ -10,4 +10,4 @@
 
 :seedling: I'm also an active volunteer in LGBTQ and STEM education. 
 
-:computer: I’m currently developing my skills in **full stack web development**. Actively looking for an internship in Software Development, feel free to reach out with any opportunity.
+:computer: I’m currently developing my skills in **full stack web development** and will start my software engineer internship this falll. Actively looking for next internship in 2024, feel free to reach out with any opportunity.
