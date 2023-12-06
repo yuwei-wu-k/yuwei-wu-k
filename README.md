@@ -8,4 +8,4 @@
 
 :book: I have a bachelor's degree in English Literature, which allows me to bring a unique perspective to my work, combining my passion for understanding human nature with a strong analytical mindset.
 
-:computer: I’m currently developing my skills in **full stack web development** and will start my software engineer internship this fall. Actively looking for next internship in 2024, feel free to reach out with any opportunity.
+:computer: I’m currently developing my skills in **full stack web development** and actively looking for next internship in 2024, feel free to reach out with any opportunity.
